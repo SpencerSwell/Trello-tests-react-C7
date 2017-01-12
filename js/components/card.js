@@ -5,5 +5,5 @@ export default function Card(props) {
 }
 
 Card.defaultProps = {
-    text: ''
+    text: ['']
 };
